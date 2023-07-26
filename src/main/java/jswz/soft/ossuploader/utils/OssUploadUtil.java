@@ -13,8 +13,8 @@ import java.io.File;
  */
 public class OssUploadUtil {
     private String endpoint = "https://oss-cn-nanjing.aliyuncs.com";
-    private String accessKeyId = "LTAI5tKbGUAdreQc8TAHTwen";
-    private String accessKeySecret = "55dr7LkbwUkfGR2SMY4nDSXaWZjt8f";
+    private String accessKeyId = "";
+    private String accessKeySecret = "";
     private String bucketName = "edu-nuist";
 
     public Boolean existBucket() {
