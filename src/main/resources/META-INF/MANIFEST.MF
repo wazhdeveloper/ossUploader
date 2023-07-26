@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: jswz.soft.ossuploader.App
+Class-Path: jettison-1.1.jar javafx-graphics-17.0.6.jar jdom2-2.0.6.jar 
+ javafx-controls-17.0.6.jar stax-api-1.0.1.jar gson-2.8.5.jar aliyun-jav
+ a-sdk-ecs-4.2.0.jar javafx-controls-17.0.6-win.jar httpclient-4.4.1.jar
+  httpcore-4.4.1.jar javafx-graphics-17.0.6-win.jar aliyun-java-sdk-ram-
+ 3.0.0.jar commons-logging-1.2.jar aliyun-sdk-oss-3.10.2.jar aliyun-java
+ -sdk-sts-3.0.0.jar commons-codec-1.9.jar javafx-base-17.0.6.jar javafx-
+ base-17.0.6-win.jar aliyun-java-sdk-core-3.4.0.jar javafx-fxml-17.0.6.j
+ ar aliyun-java-sdk-kms-2.7.0.jar javafx-fxml-17.0.6-win.jar
+
